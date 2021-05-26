@@ -1,6 +1,6 @@
 # IT Pro
 ### Hi there 👋
-![HP](https://img.shields.io/badge/HPE-Administrator-007DB8)
+![HP](https://img.shields.io/badge/HPE-Administrator-007DB8?style=for-the-badge&logo=hp)
 
 <!--
 **jays1ngh/jays1ngh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
