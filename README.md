@@ -1,6 +1,6 @@
 # IT Pro
 ### Hi there 👋
-!(https://img.shields.io/badge/Dell-User-007DB8?style=for-the-badge&logo=dell)
+![HP](https://img.shields.io/badge/Dell-User-007DB8?style=for-the-badge&logo=dell)
 
 <!--
 **jays1ngh/jays1ngh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
