@@ -2,8 +2,6 @@
 ### Hi there 👋
 ## Server Infrastructure Management
 ![HP](https://img.shields.io/badge/HPE-Administrator-2A7F0A?style=for-the-badge&logo=hp)
-![Zabbix]()
-
 
 ## Modern Workplace and Management
 ![ConfigMgr](https://img.shields.io/badge/ConfigMgr-Administrator-2A7F0A?style=for-the-badge&logo=windows)
