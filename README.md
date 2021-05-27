@@ -12,10 +12,9 @@
 ![zabbix](https://img.shields.io/badge/zabbix-B20000?style=for-the-badge&logo=zabbix)
 ![SNIPE-IT](https://img.shields.io/badge/snipeit-701B6F?style=for-the-badge&logo=snipe)
 
-### Check my portfolio portfolio.masteringmdm.com
 <!--
 **jays1ngh/jays1ngh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Check my portfolio portfolio.masteringmdm.com
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
