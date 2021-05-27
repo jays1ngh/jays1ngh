@@ -7,7 +7,7 @@
 ## Modern Workplace and Management
 ![ConfigMgr](https://img.shields.io/badge/ConfigMgr-Administrator-99NN99?style=for-the-badge&logo=windows)
 ![Intune](https://img.shields.io/badge/Intune-Administrator-99NN99?style=for-the-badge&logo=microsoft)
-!(https://portfolio.masteringmdm.com/wp-content/uploads/2021/01/JaySingh03_BlackWhite-807x1024-428x542.jpg)
+![test](https://portfolio.masteringmdm.com/wp-content/uploads/2021/01/JaySingh03_BlackWhite-807x1024-428x542.jpg)
 
 <!--
 **jays1ngh/jays1ngh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
