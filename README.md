@@ -3,6 +3,10 @@
 ## Server Infrastructure Management
 ![HP](https://img.shields.io/badge/HPE-Administrator-007DB8?style=for-the-badge&logo=hp)
 
+## Modern Workplace and Management
+![ConfigMgr](https://img.shields.io/badge/ConfigMgr-Administrator-007DB8?style=for-the-badge&logo=windows)
+![Intune](https://img.shields.io/badge/Intune-Administrator-007DB8?style=for-the-badge&logo=microsoft)
+
 <!--
 **jays1ngh/jays1ngh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
